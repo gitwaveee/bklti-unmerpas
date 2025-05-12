@@ -181,7 +181,15 @@ header ul a{
     }
 }
 
+.hero-vid-box{
+    position: absolute;
+    right: 2px;
+}
 
+.hero-vid-box video{
+    height: 900px;
+    mix-blend-mode: difference;
+}
 
 
 

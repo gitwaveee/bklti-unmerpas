@@ -125,6 +125,9 @@ header ul a{
 }
 
 .hero-info .hero-info-title{
+    display: flex;
+    align-items: center;
+    gap: 5px;
     color: #727fde;
     padding: 8px 20px;
     border: 1px solid #727fde77;
@@ -151,6 +154,9 @@ header ul a{
 }
 
 .hero-info button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
     color: white;
     padding: 15px 30px;
     border-radius: 10px;
@@ -159,6 +165,7 @@ header ul a{
     box-shadow: 0 0 5px #727fde86;
     cursor: pointer;
     transition: 0.3s;
+    font-size: 16px;
 }
 
 .hero-info button:hover{

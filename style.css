@@ -296,6 +296,16 @@ header ul a{
     color: lightgray;
 }
 
+#globe{
+    position: absolute;
+    margin: 0;
+    bottom: 150px;
+    left: 5%;
+    font-size: 25px;
+    z-index: 1;
+    color: lightgray;
+}
+
 .card p{
     position: absolute;
     bottom: 3%;

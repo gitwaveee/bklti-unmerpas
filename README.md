@@ -5,7 +5,7 @@ Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Te
 
 ## Instalasi
 
-Pastikan Anda sudah menginstal [Git](https://git-scm.com/downloads) di komputer anda.
+Pastikan Kalian sudah menginstal [Git](https://git-scm.com/downloads) di komputer anda.
 
 Buka terminal dan jalankan printah berikut :
 
@@ -15,7 +15,7 @@ git clone https://github.com/gitwaveee/bklti-unmerpas.git
 
 ## Penggunaan
 
-Buka terminal dan pastikan anda sudah di dalam folder bklti-unmerpas.
+Buka terminal dan pastikan Kalian sudah di dalam folder bklti-unmerpas yah.
 
 ```bash
 cd bklti-unmerpas

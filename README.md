@@ -25,7 +25,7 @@ Lalu buka text editor favorit kalian 😊
 ```bash
 code .
 ```
-
+Jalankan index.html di chrome
 
 ## Manfaat Website:
 

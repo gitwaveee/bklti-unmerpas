@@ -5,7 +5,7 @@ Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Te
 
 ## Instalasi
 
-Pastikan Kalian sudah menginstal [Git](https://git-scm.com/downloads) di komputer anda.
+Pastikan Kalian sudah menginstal [Git](https://git-scm.com/downloads) di komputer.
 
 Buka terminal dan jalankan printah berikut :
 

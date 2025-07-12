@@ -1,9 +1,36 @@
 <p align="center">
   <img width="100px" src="">
   <h2 align="center" >Biro Konsultasi Teknologi Informasi</h2>
+  <p align="center">Universitas Merdeka Pasuruan</p>
 </p>
 
-### Universitas Merdeka Pasuruan
+<p align="center">
+  <a href="https://github.com/gitwaveee/bklti-unmerpas/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/gitwaveee/bklti-unmerpas?style=flat" />
+    </a>
+  
+  <a href="https://github.com/gitwaveee/bklti-unmerpas/watchers">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gitwaveee/bklti-unmerpas?style=flat&color=800080" />
+</a>
+
+  <a href="https://github.com/gitwaveee/bklti-unmerpas/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/gitwaveee/bklti-unmerpas?color=0088ff" />
+    </a>
+    
+<a href="https://github.com/gitwaveee/bklti-unmerpas/network/members">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/gitwaveee/bklti-unmerpas?style=flat&color=4caf50"/>
+</a>
+
+<a href="https://github.com/gitwaveee/bklti-unmerpas/stargazers">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/gitwaveee/bklti-unmerpas?style=flat&color=ffc107" />
+</a>
+
+
+
+
+</p>
+
+
 
 Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Teknologi Informasi (TI) Universitas Merdeka Pasuruan. Tujuan utama website ini adalah menyediakan sarana komunikasi, informasi, dan pelayanan yang terintegrasi bagi mahasiswa, dosen, staf, serta mitra eksternal yang membutuhkan layanan konsultasi di bidang teknologi informasi.
 

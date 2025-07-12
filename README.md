@@ -26,6 +26,14 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="">Demontrasi</a>
+  .
+  <a href="https://github.com/gitwaveee/bklti-unmerpas/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Laporkan bug</a>
+  .
+  <a href="https://github.com/gitwaveee/bklti-unmerpas/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Pengajuan fitur</a>
+</p>
+
 
 
 Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Teknologi Informasi (TI) Universitas Merdeka Pasuruan. Tujuan utama website ini adalah menyediakan sarana komunikasi, informasi, dan pelayanan yang terintegrasi bagi mahasiswa, dosen, staf, serta mitra eksternal yang membutuhkan layanan konsultasi di bidang teknologi informasi.

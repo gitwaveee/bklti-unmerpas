@@ -1,4 +1,8 @@
-# Biro Konsultasi Teknologi Informasi
+<p align="center">
+  <img width="100px" src="">
+  <h2 align="center" >Biro Konsultasi Teknologi Informasi</h2>
+</p>
+
 ### Universitas Merdeka Pasuruan
 
 Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Teknologi Informasi (TI) Universitas Merdeka Pasuruan. Tujuan utama website ini adalah menyediakan sarana komunikasi, informasi, dan pelayanan yang terintegrasi bagi mahasiswa, dosen, staf, serta mitra eksternal yang membutuhkan layanan konsultasi di bidang teknologi informasi.

@@ -38,7 +38,7 @@
 
 Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Teknologi Informasi (TI) Universitas Merdeka Pasuruan. Tujuan utama website ini adalah menyediakan sarana komunikasi, informasi, dan pelayanan yang terintegrasi bagi mahasiswa, dosen, staf, serta mitra eksternal yang membutuhkan layanan konsultasi di bidang teknologi informasi.
 
-## Instalasii
+## Instalasi
 
 Pastikan Kalian sudah menginstal [Git](https://git-scm.com/downloads) di komputer.
 

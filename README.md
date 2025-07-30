@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="public/BKLTI.png" align="center">
+  <img width="100px" src="public/logo-bklti.png" align="center">
   <h2 align="center" >Biro Konsultasi Teknologi Informasi</h2>
   <p align="center">Universitas Merdeka Pasuruan</p>
 </p>

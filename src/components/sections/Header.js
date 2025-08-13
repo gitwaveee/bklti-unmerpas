@@ -20,7 +20,7 @@ export function Header({ logo, links, buttons, className, ...rest }) {
           <img
             src={logo.src}
             alt={logo.alt}
-            className="h-10 w-auto hover:animate-spin dark:invert"
+            className="h-10 w-auto dark:invert"
           />
         </a>
         <div

@@ -37,12 +37,10 @@ export default function Home() {
         badge={{
           href: "#",
           icon: "tabler:arrow-right",
-          label: "😻 Pelajari Apa Yang Baru",
+          label: "😻 Learn What’s New",
         }}
-        title="Konsultasi & Diskusi IT Lebih Mudah"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-        expedita, ipsam nobis blanditiis provident ducimus aut, velit
-        facere fugit praesentium"
+        title="IT Consultation & Discussion Made Easy"
+        description="Connect with tech experts, share your challenges, and explore solutions in networks, information systems, cybersecurity, and more – all in one reliable platform."
         buttons={[
           {
             href: "#",
@@ -67,16 +65,16 @@ export default function Home() {
       />
       <FeatureSection
         id="features"
-        title="Discover Our Amazing Features"
-        description="Explore the wide range of powerful features that our product offers. From advanced analytics to seamless integrations, we have everything you need to succeed."
+        title="Discover Our Powerful IT Services"
+        description="Explore a wide range of trusted IT consultation and discussion services designed to help you solve challenges, gain insights, and stay ahead in the digital world."
         features={features}
       />
       <LargeFeatureSection
-        title="Stay on top of your business"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
+        title="Stay Ahead in Your IT Solutions"
+        description="Get the right guidance, expert insights, and secure practices to help you solve IT challenges effectively."
         list={features.slice(0, 3)}
         image={{
-          src: "./phone-mockup.png",
+          src: "./phone-mockup(2).png",
           alt: "Image",
           className:
             "w-full aspect-square object-contain rotate-6 hover:rotate-0 duration-300 ease-in-out",
@@ -88,7 +86,7 @@ export default function Home() {
         description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
         list={features.slice(0, 3)}
         image={{
-          src: "./phone-mockup.png",
+          src: "./phone-mockup(1).png",
           alt: "Image",
           className:
             "w-full aspect-square object-contain -rotate-6 hover:rotate-0 duration-300 ease-in-out",

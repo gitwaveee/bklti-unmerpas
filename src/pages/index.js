@@ -25,6 +25,7 @@ export default function Home() {
   return (
     <>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Bklti-unmerpas</title>
       </Head>
       <Header
@@ -137,7 +138,7 @@ export default function Home() {
       />
       <CtaSection
         title="Ready to get started?"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
+        description="Your IT solutions are just one click away. Whether you need expert consultation, in-depth technical advice, or collaborative project support, BKLTI is here to help you achieve your goals."
         buttons={[{ label: "Start for Free", href: "#", color: "dark" }]}
       />
       <Footer

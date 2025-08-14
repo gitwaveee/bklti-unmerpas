@@ -1,5 +1,5 @@
 export const footer = {
-  copyright: "2024 Your Company. All rights reserved.",
+  copyright: "2025 GitWave",
   logo: {
     src: "./logo.png",
     alt: "logo",
@@ -16,16 +16,12 @@ export const footer = {
   ],
   social: [
     {
-      icon: "tabler:brand-x",
-      url: "#",
-    },
-    {
       icon: "tabler:brand-instagram",
-      url: "#",
+      url: "https://www.instagram.com/bklti_unmerpas/",
     },
     {
       icon: "tabler:brand-youtube",
-      url: "#",
+      url: "https://www.youtube.com/@BKLTIUnmerpas",
     },
     {
       icon: "tabler:brand-linkedin",

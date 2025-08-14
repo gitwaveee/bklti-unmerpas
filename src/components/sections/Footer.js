@@ -15,7 +15,7 @@ export function Footer({ copyright, logo, links, social, ...rest }) {
           <img
             src="./logo.png"
             alt="logo"
-            className="h-10 w-auto opacity-70 hover:opacity-100 dark:invert"
+            className="h-12 w-auto opacity-70 hover:opacity-100 dark:invert"
           />
           <div className="flex flex-row gap-4 text-sm">
             {links.map((link, index) => (
@@ -27,12 +27,8 @@ export function Footer({ copyright, logo, links, social, ...rest }) {
           <SocialLinks links={social} />
         </div>
         
-        <div className="border-t border-base py-4 text-center flex justify-between">
+        <div className="border-t border-base py-4 text-center flex justify-center">
           <p className="text-sm">&copy; {copyright}</p>
-          <a href="https://bansal.io" className="text-sm text-muted italic">
-            Themed by Bansal
-          </a> 
-          <p className="text-sm">Distributed by <a href="https://themewagon.com" className="text-sm">ThemeWagon</a></p>
         </div>
       </div>
     </footer>

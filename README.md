@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="">Demontrasi</a>
+  <a href="https://bklti-unmerpas.vercel.app/">Demontrasi</a>
   .
   <a href="https://github.com/gitwaveee/bklti-unmerpas/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Laporkan bug</a>
   .

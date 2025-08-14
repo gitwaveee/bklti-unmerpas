@@ -82,8 +82,8 @@ export default function Home() {
       />
       <LargeFeatureSection
         reverse={true}
-        title="Stay on top of your business"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique"
+        title="Stay on Top of Your IT Needs"
+        description="Connect, consult, and collaborate to find the best solutions for your technology challenges."
         list={features.slice(0, 3)}
         image={{
           src: "./phone-mockup(1).png",
@@ -95,7 +95,7 @@ export default function Home() {
       <PricingSection
         id="pricing"
         title="Pricing for Everyone"
-        description="Choose a plan that works for you. All plans include a 7-day free trial."
+        description="Choose a consultation plan that works for you. All plans include a 7-day free trial."
         badge={{
           leading: true,
           icon: "tabler:credit-card",
@@ -106,8 +106,7 @@ export default function Home() {
       <TestimonialSection
         id="testimonials"
         title="Love from our customers"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis similique
-        veritatis"
+        description="Hear directly from those who have experienced the benefits of our IT consultation and discussion services."
         badge={{
           leading: true,
           icon: "tabler:heart",
@@ -124,7 +123,7 @@ export default function Home() {
       <FaqSection
         id="faqs"
         title="Frequently Asked Questions"
-        description="Here are some of our most frequently asked questions. If you have a question that isn't answered here, please feel free to contact us."
+        description="Here are some of the most common questions we receive. If your question isn’t listed here, feel free to contact us anytime."
         buttons={[
           {
             label: "Contact Support",

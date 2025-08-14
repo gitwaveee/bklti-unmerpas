@@ -1,31 +1,31 @@
 export const testimonials = [
   {
-    name: "John Doe",
-    title: "CEO of  a Company",
+    name: "Andi Pratama",
+    title: "CEO, PT Digital Nusantara",
     avatar: "https://i.pravatar.cc/150?img=1",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur expedita, ipsam nobis blanditiis provident ducimus aut",
+      "BKLTI’s consultation helped our team speed up the development of a government website with the right and secure solutions. The response was fast and highly professional.",
   },
   {
-    name: "Jane Doe",
+    name: "Rina Kartika",
     title: "CTO of a Company",
     avatar: "https://i.pravatar.cc/150?img=2",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur expedita, ipsam nobis blanditiis provident ducimus aut, velit facere fugit praesentium, necessitatibus voluptatem consequuntur amet ratione? Sint distinctio quod non quae?",
+      "The interactive discussions with experts helped us find creative solutions for the Android education app we were developing",
   },
   {
     name: "John Smith",
     title: "COO of a Company",
     avatar: "https://i.pravatar.cc/150?img=3",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur expedita, ipsam nobis blanditiis provident ducimus aut, velit facere fugit praesentium, necessitatibus voluptatem consequuntur amet ratione? Sint distinctio quod non quae?",
+      "BKLTI’s priority service provided us with very detailed cybersecurity guidance. It was incredibly helpful in protecting our customer data.",
   },
   {
     name: "Jane Smith",
     title: "CFO of a Company",
     avatar: "https://i.pravatar.cc/150?img=4",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur expedita, ipsam nobis blanditiis provident ducimus aut, velit facere fugit praesentium",
+      "Beyond consultation, BKLTI’s tips and security guidelines have been extremely valuable for our retail business, which now relies heavily on technology.",
   },
   {
     name: "John Doe",

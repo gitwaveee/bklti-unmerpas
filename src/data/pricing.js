@@ -1,7 +1,7 @@
 export const pricing = [
   {
     name: "Free",
-    description: "For small teams",
+    description: "For individuals & students",
     value: {
       monthly: 0,
       yearly: 0,
@@ -9,10 +9,10 @@ export const pricing = [
     unit: "per user/month",
     currency: "$",
     features: [
-      "Unlimited users",
-      "Unlimited projects",
-      "Unlimited storage",
-      "Unlimited support",
+      "Access to public discussions",
+      "Join community Q&A sessions",
+      "Basic consultation (text only)",
+      "Learning resources & articles",
     ],
     button: {
       label: "Get started",
@@ -23,7 +23,7 @@ export const pricing = [
   },
   {
     name: "Pro",
-    description: "For growing teams",
+    description: "For professionals & small teams",
     value: {
       monthly: 15,
       yearly: 12,
@@ -32,9 +32,9 @@ export const pricing = [
     currency: "$",
     features: [
       "All Free features",
-      "Priority support",
-      "Advanced analytics",
-      "Custom branding",
+      "1-on-1 consultation with IT experts",
+      "Access to exclusive webinars & guides",
+      "Customizable consultation topics",
     ],
     button: {
       label: "Start free trial",
@@ -44,7 +44,7 @@ export const pricing = [
   },
   {
     name: "Enterprise",
-    description: "For large teams",
+    description: "For companies & organizations",
     value: {
       monthly: 29,
       yearly: 24,
@@ -54,7 +54,7 @@ export const pricing = [
     features: [
       "All Pro features",
       "Dedicated account manager",
-      "Custom integrations",
+      "Tailored IT solutions & strategy",
       "Data import & export",
     ],
     button: {

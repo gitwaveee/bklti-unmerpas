@@ -15,7 +15,7 @@ export function Footer({ copyright, logo, links, social, ...rest }) {
           <img
             src="./logo.png"
             alt="logo"
-            className="h-12 w-auto opacity-70 hover:opacity-100 dark:invert"
+            className="h-10 w-auto opacity-70 hover:opacity-100 dark:invert"
           />
           <div className="flex flex-row gap-4 text-sm">
             {links.map((link, index) => (

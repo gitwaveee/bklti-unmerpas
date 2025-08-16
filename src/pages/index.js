@@ -25,7 +25,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
         <title>Bklti-unmerpas</title>
       </Head>
       <Header
@@ -40,7 +39,7 @@ export default function Home() {
           icon: "tabler:arrow-right",
           label: "😻 Learn What’s New",
         }}
-        title="IT Consultation & Discussion Made Easy"
+        title="Smart Technology Consultation, Simplified."
         description="Connect with tech experts, share your challenges, and explore solutions in networks, information systems, cybersecurity, and more – all in one reliable platform."
         buttons={[
           {

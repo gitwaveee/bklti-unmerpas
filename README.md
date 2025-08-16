@@ -41,8 +41,11 @@ Website ini dikembangkan sebagai platform digital resmi untuk Biro Konsultasi Te
 ## 🚀 Fitur Utama
 - Landing page informatif
 - Desain responsif (mobile-friendly)
-- Menggunakan HTML, CSS, JavaScript, dan Bootstrap
+- Dibangun dengan **Next.js 14**, **React 18**, dan **Tailwind CSS**
+- Komponen interaktif menggunakan **Radix UI**
+- Manajemen tema dengan **next-themes**
 - Struktur file rapi dan mudah dikembangkan
+  
 
 ## ⚙️ Cara Pemasangan & Menjalankan Project
 

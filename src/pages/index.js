@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <meta name="google-site-verification" content="googlecc41692cc6eb4b1f.html" />
+        <meta name="google-site-verification" content="7tsvMUitpfwrWGRn8Uh4zm2VnMCXFKpShHeC9-hkADc" />
         <title>Bklti-unmerpas</title>
       </Head>
       <Header

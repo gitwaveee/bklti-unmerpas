@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bklti-unmerpas.vercel.app/sitemap.xml
